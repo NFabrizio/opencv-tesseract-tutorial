@@ -14,17 +14,17 @@ Below are the instructions for installing this application.
    1. Follow the instructions for your operating system at (this link)[https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/].  
 3. Clone this repository to your local environment.  
    1. Fork this Github repo.  
-     1. In a web browser, visit https://github.com/NFabrizio/opencv-tesseract-tutorial  
-     2. Click the Fork button in the upper right corner of the screen  
-     3. In the "Where should we fork this repository?" pop up, select your username.
+      1. In a web browser, visit https://github.com/NFabrizio/opencv-tesseract-tutorial  
+      2. Click the Fork button in the upper right corner of the screen  
+      3. In the "Where should we fork this repository?" pop up, select your username.
     Github should create a fork of the repo in your account  
    2. Clone your fork of the opencv-tesseract-tutorial repo.  
-     1. In the terminal on your local environment, navigate to the directory where
-     you want to clone the opencv-tesseract-tutorial repo  
-      `cd ~/path/to/your/directory`  
-     2. In the terminal, run:  
-      `git clone [clone-url-for-your-fork]`  
-      The URL should be in the format git@github.com:YourUsername/opencv-tesseract-tutorial.git  
+      1. In the terminal on your local environment, navigate to the directory where
+         you want to clone the opencv-tesseract-tutorial repo  
+         `cd ~/path/to/your/directory`  
+      2. In the terminal, run:  
+         `git clone [clone-url-for-your-fork]`  
+         The URL should be in the format git@github.com:YourUsername/opencv-tesseract-tutorial.git  
 4. Run the script from your local machine.  
    1. Change into the directory where you cloned the repo.  
      `cd ~/path/to/your/directory/opencv-tesseract-tutorial`  
