@@ -9,9 +9,9 @@ Below are the instructions for installing this application.
 
 ### Environment Set Up  
 1. Install python.  
-   1. Follow the instructions for python installation at (this link)[https://www.python.org/downloads/].  
+   1. Follow the instructions for python installation at [this link](https://www.python.org/downloads/).  
 2. Install OpenCV 4 and Tesseract.  
-   1. Follow the instructions for your operating system at (this link)[https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/].  
+   1. Follow the instructions for your operating system at [this link](https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/).  
 3. Clone this repository to your local environment.  
    1. Fork this Github repo.  
       1. In a web browser, visit https://github.com/NFabrizio/opencv-tesseract-tutorial  
